@@ -7,3 +7,4 @@
 * pwd
 * df -h
 * rm -rf 
+* datetime
