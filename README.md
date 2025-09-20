@@ -2,3 +2,6 @@
 * orbstark
 * docker
 * podman
+
+### shell命令
+* pwd
