@@ -8,3 +8,4 @@
 * df -h
 * rm -rf 
 * datetime
+* history
