@@ -5,3 +5,4 @@
 
 ### shell命令
 * pwd
+* df -h
